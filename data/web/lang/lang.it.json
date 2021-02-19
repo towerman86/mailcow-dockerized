@@ -1,6 +1,13 @@
 {
     "acl": {
-        "syncjobs": "Processi di sync"
+        "filters": "Filtri",
+        "ratelimit": "Rate limit",
+        "spam_policy": "Blacklist/Whitelist",
+        "spam_score": "Punteggio spam",
+        "syncjobs": "Processi di sync",
+        "domain_desc": "Cambia la descrizione del dominio",
+        "xmpp_admin": "Promuovi utente XMPP ad amministratore",
+        "xmpp_prefix": "Cambia il sottodominio XMPP (prefisso)"
     },
     "add": {
         "active": "Attiva",
